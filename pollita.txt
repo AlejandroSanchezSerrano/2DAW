@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_CZHgnB
 suchochito que pasa
+=======
+suchochito
+>>>>>>> .merge_file_exZfdx
